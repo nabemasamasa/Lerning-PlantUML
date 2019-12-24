@@ -1,0 +1,18 @@
+@startuml APPLICATION
+
+'ユーザー情報'
+entity  "M_USER"{
+  ユーザーID:userId [PK]
+  email
+  password
+}
+
+'ヘッダ情報'
+entity "T_HEAD" {
+  + HEAD_ID [PK]
+  createdUserId 
+}
+
+M_USER --{ T_HEAD
+
+@enduml
