@@ -17,6 +17,8 @@
 
 ### 環境設定
 
+windows10 64bit
+
 1. Java
   - Install済みなので不要だった
 2. [Graphviz](http://www.graphviz.org/)いれる
