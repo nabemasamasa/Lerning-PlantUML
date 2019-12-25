@@ -5,6 +5,7 @@
 
 - [PlantUML Cheat Sheet](https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48)
 - [Visual Studio CodeでER図作成](https://qiita.com/kazuho39/items/99ed95efdcf3444b02a0)
+- [PlantUMLでER図を描く！](https://medium.com/veltra-engineering/how-to-draw-er-diagram-with-plantuml-86ec2095645e)
 
 ## 確認してみたいこと
 
